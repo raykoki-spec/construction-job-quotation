@@ -7,7 +7,7 @@ Logs material cost, labor and VAT then calculates total cost of the planned work
 
 ## What It Does
 
-- Logs the key construction recquirements in shillings
+- Logs the key construction recquirements in shillings (material cost, labor, VAT)
 - Calculates the total cost of the work
 - prints a well organised job quotation
 
